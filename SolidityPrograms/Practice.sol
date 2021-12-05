@@ -5,3 +5,4 @@ contract Mycontract{
  string public constant value ="Hello World";
  
 }
+
